@@ -1,7 +1,7 @@
 # Welcome to Learn Lua!
-This is a project started by Alem in 2021 to help people learn Roblox Lua, known as LuaU.
+Learn Lua was initiated by Alem in 2021 to provide a comprehensive resource for learning Roblox Lua, also known as LuaU.
 
-Learn Lua took many forms over the years, from a Wix website to a from-scratch React website to now a GitHub repository!
+Over the years, Learn Lua has evolved through various platforms, including a Wix website, a custom-built React site, and now, a GitHub repository.
 
-## For the "LuaU Experts"
-If you see something that you would like to add or change, please do!
+## For LuaU Experts
+If you have suggestions for additions or modifications, we encourage you to contribute!
